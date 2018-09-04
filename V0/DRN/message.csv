@@ -1,0 +1,1722 @@
+,"Method Names Changed for completeness
+"
+,"Formatting Fix
+"
+,"Added toString and rotate
+"
+,"Added Queue
+"
+,"Added queue on stack
+"
+=,"-Added Gradient Descent Algorithm
+"
+KuLi,"#130 fixed radix sort for python 3
+"
+lane,"added quadrature trapezoidal rule to Maths
+"
+lane,"added quadrature trapezoidal rule to Maths
+"
+lane,"Added Simpson Rule to Maths
+"
+Damel,"Added a python implementation of knuth-morris-pratt string search algo
+"
+Danni,"fixed issue#171
+"
+Pablo,"Finished delete function and added some prints functions too
+"
+Pablo,"Deleted binary_seach_tree
+"
+Pablo,"Added delete function
+"
+Pablo,"Added getNode function and made changes to insert function
+"
+Pablo,"Added delete function
+"
+ZivLi,"Add bin-search implement by recursion
+"
+douly,"fix type error (except an int) in jumpmp_search line 7.
+"
+eevee,"Playfair cipher
+"
+phlai,"for better bubble sort
+"
+psyas,"Elgamal cipher key generator code - (initial)
+"
+psyas,"modify README.md by psyas for just test
+"
+psyas,"Elgamal cipher key generator code - (initial)
+"
+umesh,"corrected title
+"
+umesh,"corrected problem title
+"
+GitHub,"Create longest common subsequence.py
+
+LCS Problem Statement: Given two sequences, find the length of longest subsequence present in both of them.
+A subsequence is a sequence that appears in the same relative order, but not necessarily continious.
+Example:""abc"", ""abg"" are subsequences of ""abcdefgh""."
+GitHub,"Create bogosort.py
+
+Bogosort randomly sorts a list until it is sorted. Its computational complexity has a best case of O(n) and a worst case of O(n!)."
+GitHub,"Merge pull request #55 from prateekiiest/master
+
+Updated README.md for Sorting Graphs"
+GitHub,"Update quick_sort.py
+
+Streamlining quick_sort function"
+GitHub,"Merge pull request #277 from girijamanojkumarreddy/master
+
+Added a Solution using Euclidean Algo"
+GitHub,"improvement
+
+I improve my code"
+GitHub,Update ftp_send_receive.py
+GitHub,Merge branch 'master' into master
+GitHub,"Merge pull request #165 from andrealmeid/master
+
+Add counting sort"
+GitHub,"Merge pull request #330 from bharath-123/patch-1
+
+Added test case to knapsack.py"
+GitHub,"Merge pull request #7 from santhon/improvements
+
+Improvements"
+GitHub,"random_normaldistribution_quicksort
+
+This is for creating an algorithm implementing QuickSort Algorithm where the pivot element is chosen randomly between first and last elements of the array and the array elements are taken from a Standard Normal Distribution.
+
+This is different from the ordinary quicksort in the sense, that it applies more to real life problems , where elements usually follow a normal distribution. Also the pivot is randomized to make it a more generic one."
+GitHub,Update heap_sort.py
+GitHub,"Merge pull request #72 from ankit167/Heap_Data_Structure
+
+Code for Heap data structure"
+GitHub,"Merge pull request #324 from cclauss/patch-3
+
+print() is a function in Python 3"
+GitHub,"Merge pull request #186 from gilbertoalexsantos/union-find
+
+Created Union-Find algorithm"
+GitHub,"Merge pull request #197 from yashasvi97/yashasvi97-MHAstar
+
+Added Multi Heuristic Astar"
+GitHub,print() is a function in Python 3
+GitHub,"Merge pull request #154 from alveeno/master
+
+Fixed compilation errors, fixes for readability/convention, changed d…"
+GitHub,"Merge pull request #191 from sachinarora707/master
+
+Project Euler Problems Added."
+GitHub,"Add files via upload
+
+There are three methods that find approximately the roots of a non-linear function"
+GitHub,Added Solution to Problem 2 in a simple approach
+GitHub,"Merge pull request #129 from Balance-Breaker/master
+
+Fixed heading's formatting errors"
+GitHub,"Added front to indicate the starting of the Queue
+
+Front variable is added so that dequeue can be done any number of times.Without front,it displays only self.entries[0] as dequeued."
+GitHub,"Merge pull request #279 from daniel-s-ingram/master
+
+Solution to Problem 53"
+GitHub,"Add Lazy Segment Tree
+
+Add Lazy Segment Tree with Lazy Approach"
+GitHub,"Added one of the most important machine learning algorithm
+
+The k-means clustering is done by using tensorflow which is the vital and growing machine learning library of google."
+GitHub,"Merge pull request #31 from akshaysharma096/master
+
+Fibonnacci Sequence using Dynamic Programming."
+GitHub,"Merge pull request #301 from yesIamHasi/patch-6
+
+Create merge_sort_fastest.py"
+GitHub,"Problem 29 
+
+On this solution I used a 'set' data structure, since more efficient."
+GitHub,Update binary_exponentiation.py
+GitHub,"Merge pull request #158 from Sayan97/patch-3
+
+Update minimum_partition.py"
+GitHub,Empty File
+GitHub,"Merge pull request #292 from TheAlgorithms/fixed_solv_4_problem1
+
+fixed solution 4 of problem 1"
+GitHub,"Merge pull request #205 from Thejus-Paul/patch-1
+
+Problem Euler Solution Added"
+GitHub,"Refactoring solv1.py
+
+Little embellishment of the code.
+I put some comments and put readable identifiers. 
+I documented the code."
+GitHub,"Merge pull request #180 from mathildapurr/fix_balanced_brackets
+
+fixed issue #171"
+GitHub,"Merge pull request #218 from cclauss/patch-3
+
+ Add automated flake8 testing of pull requests"
+GitHub,"Merge pull request #208 from damelLP/add_string_algos
+
+Added a python implementation of knuth-morris-pratt string search algo"
+GitHub,"Create NewtonRaphsonMethod.py
+
+Newton-Raphson method is non bracketing iterative algorithm to find the nearest root of an equation from point 'a'. It's much faster because convergence to the real root is very much faster than any other methods."
+GitHub,Correct markdown (ShellSort)
+GitHub,"Update Arrays
+
+Array implementation"
+GitHub,"Merge pull request #109 from RGauthamRam/patch-1
+
+Added front to indicate the starting of the Queue"
+GitHub,"Merge pull request #195 from bT-53/master
+
+Project Euler Solutions Added."
+GitHub,"Merge pull request #261 from christianbender/added_linearAlgebra
+
+added two new functions "
+GitHub,"Merge pull request #116 from RiptideBo/master
+
+master"
+GitHub,"Merge pull request #41 from theycallmemac/patch-2
+
+Create __init__.py"
+GitHub,"Merge pull request #92 from yashLadha/master
+
+Added Linear regression"
+GitHub,Update longest common subsequence.py
+GitHub,"Correction: Remove semicolons
+
+I have remove the semicolons in line 8 and line 12"
+GitHub,"from __future__ import print_function For Python 3
+
+@ltdouthit __print()__ is a function in Python 3"
+GitHub,"Pass flake8 tests
+
+Without these changes, Python syntax errors are raised.
+
+flake8 should be run by this repo's .travis.yml file but it is currently turned off."
+GitHub,"Update NeutonMethod.py
+
+Removing requirement of math library to make code faster"
+GitHub,"Merge pull request #244 from arcsinecosine/master
+
+My solution to the problem"
+GitHub,"Merge pull request #290 from TheAlgorithms/fixed_sol3_problem1
+
+I fixed the sol3.py of problem 1"
+GitHub,"Merge pull request #236 from Sayan97/patch-4
+
+Update cyclesort.py"
+GitHub,"primelib
+
+This python library contains some useful functions to deal with
+prime numbers and whole numbers. The ideas came by the problems sets from ProjectEuler."
+GitHub,"Merge pull request #9 from SergeyTsaplin/travis
+
+Travis integration (Add .travis.yml)"
+GitHub,"Revert ""There were 2 codes for BFS and DFS in data-structure/Graph."" (#163)
+
+"
+GitHub,"Merge pull request #247 from antfitch/antfitch-patch-2
+
+Updated average case for Quicksort"
+GitHub,"Merge pull request #169 from sarbajitsaha/master
+
+Fixed spelling of coma to comma"
+GitHub,Update min-cost-string-conversion.py
+GitHub,"Merge pull request #273 from daniel-s-ingram/master
+
+Algorithm for transforming one string into another in the most cost-efficient way"
+GitHub,Added basic-graphs.py with common graph algorithms
+GitHub,"Merge pull request #18 from arijit-pande/master
+
+added implementation for heap sort algorithm"
+GitHub,"Merge pull request #161 from arpanjain97/master
+
+Add shortest path algorithms"
+GitHub,"Merge pull request #188 from rudrasohan/fix_name
+
+Name change from A*.py to a_star.py"
+GitHub,"Update README.md
+
+- Add Binary Search description
+- Change formatting to be consistent"
+GitHub,Rename RSA to RSA.py
+GitHub,"Merge pull request #67 from TheAlgorithms/revert-66-master
+
+Revert ""Update Normal Distribution QuickSort Readme"""
+GitHub,"Merge pull request #263 from pl04351820/master
+
+Networking flow add"
+GitHub,"Merge pull request #1 from TheAlgorithms/master
+
+merge from main."
+GitHub,Use strip() to deal with leading or trailing whitespace
+GitHub,"Merge pull request #139 from anuragkumarak95/master
+
+added k means clustering algorithm, usage doc inside."
+GitHub,Create quick_select.py
+GitHub,"Merge pull request #280 from daniel-s-ingram/master
+
+Solution to Problem 19"
+GitHub,"Merge pull request #40 from theycallmemac/patch-1
+
+Create __init__.py"
+GitHub,"Merge pull request #227 from christianbender/master
+
+Refactoring solv1.py"
+GitHub,"Update radix_sort.py
+
+This will fix the error in the list index showing as float"
+GitHub,"Merge pull request #210 from himangSharatun/master
+
+add mean bias deviation in scoring functions"
+GitHub,"Merge pull request #35 from edawine/patch-2
+
+Uses 'with' instead of manually closing files"
+GitHub,"Merge pull request #321 from aldokkani/master
+
+Break if the collection is sorted"
+GitHub,"Create merge_sort_fastest.py
+
+Python implementation of merge sort algorithm.
+Takes an average of 0.6 microseconds to sort a list of length 1000 items.
+Best Case Scenario : O(n)
+Worst Case Scenario : O(n)"
+GitHub,"Merge pull request #138 from rafaelleru/master
+
+working on #93"
+GitHub,"Merge pull request #49 from yvonneFtMore/master
+
+add sum of the longest sub array"
+GitHub,"Merge pull request #148 from b1o0d4x3/master
+
+There were 2 codes for BFS and DFS in data-structure/Graph."
+GitHub,"Merge pull request #69 from theycallmemac/patch-3
+
+Create radix_sort.py"
+GitHub,"Merge pull request #250 from akshaykumar123/patch-1
+
+Update Arrays"
+GitHub,"Merge pull request #25 from yyeltsyn/patch-3
+
+Update heap_sort.py"
+GitHub,"Merge pull request #63 from umsh1ume/master
+
+Corrected title in longest_sub_array"
+GitHub,"Merge pull request #276 from daniel-s-ingram/master
+
+Counting integer partitions"
+GitHub,Rename randomquicksort.py to random_normaldistribution_quicksort.py
+GitHub,Slight Performance/Visual Update
+GitHub,Create randomquicksort.py
+GitHub,"Merge pull request #233 from ashu01/master
+
+typo fix"
+GitHub,"Merge pull request #115 from RiptideBo/stephen_branch
+
+add neuralnetwork_bp3.py"
+GitHub,"Merge pull request #257 from shivg7706/master
+
+another sol for problem_20"
+GitHub,"Updated_caesar_cipher.py
+
+Updated"
+GitHub,noqa: F821 This syntax is Python 3 only
+GitHub,"Merge pull request #101 from chrisjim316/master
+
+Correct markdown (ShellSort)"
+GitHub,Update __init__.py
+GitHub,Merge branch 'master' into modernize-python2-code
+GitHub,"Merge pull request #19 from JakeBonek/master
+
+Added Shell Sort"
+GitHub,Create scc_kosaraju.py
+GitHub,Delete main.py
+GitHub,"chunk() --> chuncker() to resolve undefined name
+
+flake8 results:
+```
+./ciphers/playfair_cipher.py:88:25: F821 undefined name 'chunk'
+    for char1, char2 in chunk(ciphertext, 2):
+                        ^
+```"
+GitHub,"Merge pull request #185 from anuragkumarak95/master
+
+[other] Added Sierpinski Triangle Generator (Fractal structure)."
+GitHub,"Merge pull request #220 from cclauss/modernize-python2-code
+
+Modernize Python 2 code to get ready for Python 3"
+GitHub,"Merge pull request #51 from tlaivamaa/master
+
+Added implementations of gnome sort and cocktail shaker sort"
+GitHub,"Merge pull request #114 from RiptideBo/master
+
+master"
+GitHub,"Commented travis tag
+
+Commented travis tag untill we find suitable travis.yml"
+GitHub,Create binary_exponentiation.py
+GitHub,"Merge pull request #149 from KyleScharnhorst/master
+
+Fix: typo in multiple files."
+GitHub,"from __future__ import print_function for Python 3
+
+@ltdouthit __print()__ is a function in Python 3"
+GitHub,"Revert ""Update bubble_sort.py""
+"
+GitHub,"Revert ""Update Normal Distribution QuickSort Readme""
+"
+GitHub,"Merge pull request #174 from SaBuZa/floyd_warshall
+
+Floyd Warshall Algorithm"
+GitHub,"deleted A*.py
+
+Duplicate File"
+GitHub,"Merge pull request #200 from pablo9891/master
+
+Added delete function to binary_search_tree.py and print function"
+GitHub,Merge branch 'master' into master
+GitHub,"Merge pull request #238 from Sayan97/patch-5
+
+Update NeutonMethod.py"
+GitHub,created sol1.py
+GitHub,"Create minimum_partition.py
+
+Partition a set into two subsets such that the difference of subset sums is minimum"
+GitHub,Create normal_distribution_QuickSort_README.md
+GitHub,"function '__init__' miss a 'i'
+
+__int__ should be __init__ i think?"
+GitHub,"Merge pull request #4 from vincenzobaz/master
+
+Add quicksort"
+GitHub,Update Arrays
+GitHub,"Merge pull request #228 from MindTraper/master
+
+Three methods to find the roots of non-linear functions"
+GitHub,"Merge pull request #222 from cclauss/patch-5
+
+Typo: dfference --> difference (I added an i)"
+GitHub,"Merge pull request #106 from frmatias/master
+
+Neural Network - Perceptron"
+GitHub,"Merge pull request #223 from RiptideBo/master
+
+add a framework of bp neural network and delete the old one"
+GitHub,"Merge pull request #135 from KuLi/radix_sort-fix
+
+#130 fixed radix sort for python 3"
+GitHub,Create radix_sort.py
+GitHub,Update A*.py
+GitHub,"Merge pull request #156 from TobCar/master
+
+Add Linear Congruential Generator"
+GitHub,"Create __init__.py
+
+Initialising of a Stack Class, has three methods: is_empty, push and pop."
+GitHub,"Merge pull request #56 from TheAlgorithms/revert-53-master
+
+Revert ""Upadated RSA Algorithm under Cryptography Section"""
+GitHub,"Removed empty lines (255-313)
+
+Lines 255 to 313 were just empty, so removed those lines!"
+GitHub,"Merge pull request #74 from alaouimehdi1995/master
+
+Script Output: The entire longest increasing subsequence instead of it's length"
+GitHub,"Merge pull request #272 from daniel-s-ingram/master
+
+Fixed xrange compatibility for Python 3"
+GitHub,Fix Python 2 syntax error in matrix_chain_order.py
+GitHub,"Merge pull request #285 from yesIamHasi/patch-2
+
+Create Onepad_Cipher.py"
+GitHub,"Merge pull request #22 from yyeltsyn/patch-1
+
+Update bubble_sort.py"
+GitHub,"Merge pull request #36 from ShyamW/master
+
+Added Queue represented from list"
+GitHub,"Merge pull request #153 from fickleEfrit/patch-1
+
+Create quick_select.py"
+GitHub,"Merge pull request #96 from ZivLi/Add-bin-search-algorithm-by-recursion
+
+Add bin-search implement by recursion"
+GitHub,Merge branch 'master' into revert-22-patch-1
+GitHub,"Merge pull request #217 from cclauss/patch-2
+
+import numpy as np"
+GitHub,"Merge pull request #264 from shivg7706/master
+
+QuineMcCluskey"
+GitHub,"Merge pull request #182 from tonydelanuez/patch-1
+
+Adding reverse() to singly-linked list"
+GitHub,"Merge pull request #271 from cclauss/patch-6
+
+from __future__ import print_function For Python 3"
+GitHub,Added Linear Search Readme
+GitHub,"Add another randomness into the password generator
+
+Uses import random for namespace cleanliness
+Uses list instead of string for 'chars' variable in order to shuffle, increases randomness
+Instead of string formatting, uses string concatenation because (currently) it is simpler"
+GitHub,"Merge pull request #50 from RianGallagher/master
+
+Added Doubly Linked List"
+GitHub,"Merge pull request #32 from akshaysharma096/master
+
+PEP style and fixed exception on input other and integer type"
+GitHub,"Merge pull request #89 from Prakash2403/master
+
+Added Gradient Descent Algorithm"
+GitHub,"Merge pull request #88 from zach-wild/topological_sort
+
+Add topological_sort.py"
+GitHub,Easier Solution To Problem 7
+GitHub,"Merge pull request #39 from akshaysharma096/master
+
+added isinstance check"
+GitHub,Added Shell sort to readme
+GitHub,Delete binary_exponentiation.java
+GitHub,Update SimpsonRule.py
+GitHub,"Merge pull request #1 from ltdouthit/Maths/Numerical_Intergration
+
+Maths/numerical intergration"
+GitHub,"Merge pull request #300 from irokafetzaki/tabu
+
+Tabu Search"
+GitHub,"Merge pull request #157 from Sayan97/patch-1
+
+Update radix_sort.py"
+GitHub,"Merge pull request #97 from OmkarPathak/added_programs
+
+Added Stack implementation and some traditional Stack problems "
+GitHub,"Merge pull request #1 from H-Darji/master
+
+Minor improvement"
+GitHub,Add a soution of ProjectEuler Problem 13
+GitHub,"Create cyclesort.py
+
+implementation of cycle sort in python3"
+GitHub,"Merge pull request #159 from Deepak345/master
+
+implemented jump search"
+GitHub,"Merge pull request #134 from malikshubham827/master
+
+Added Dijkstra Algorithm"
+GitHub,"Merge pull request #30 from akshaysharma096/master
+
+Traversal algorithms for Binary Tree."
+GitHub,"Merge pull request #86 from frmatias/patch-2
+
+Update .travis.yml"
+GitHub,small improvements!
+GitHub,Merge branch 'master' into patch-1
+GitHub,"Merge pull request #296 from shivg7706/master
+
+added PE 11, 22, 24"
+GitHub,"Merge pull request #70 from SylvainDe/master
+
+Add most recent Python versions in Travis CI"
+GitHub,"Merge pull request #246 from antfitch/antfitch-patch-1
+
+Fixed recursion error in binary_search_by_recursion"
+GitHub,"xrange() was removed in Python 3 in favor of range()
+
+@daniel-s-ingram Similar changes needed on Problems 25 and 28 so they can run on Python 3.
+
+flake8 testing of https://github.com/TheAlgorithms/Python on Python 3.6.3
+
+$ __flake8 . --count --select=E901,E999,F821,F822,F823 --show-source --statistics__
+```
+./Project Euler/Problem 10/sol1.py:5:11: F821 undefined name 'xrange'
+	for i in xrange(2, int(sqrt(n))+1):
+          ^
+./Project Euler/Problem 10/sol1.py:17:11: F821 undefined name 'xrange'
+	for i in xrange(3, n, 2):
+          ^
+./Project Euler/Problem 25/sol1.py:10:12: F821 undefined name 'xrange'
+		for i in xrange(2, n+1):
+           ^
+./Project Euler/Problem 28/sol1.py:7:11: F821 undefined name 'xrange'
+	for i in xrange(1, int(ceil(n/2.0))):
+          ^
+4     F821 undefined name 'xrange'
+```"
+GitHub,Delete P01_BreadthFirstSearch.py
+GitHub,"Merge pull request #160 from kiandru/fastfibonacci
+
+Added fastfibonacci.py"
+GitHub,"Merge pull request #268 from daniel-s-ingram/master
+
+Solution to Problem 48"
+GitHub,"Merge pull request #166 from maciejczyzewski/master
+
+Implemented simple chaos machine"
+GitHub,"Merge pull request #216 from nautiyaldeepak/master
+
+ftp client server connection"
+GitHub,"Merge pull request #231 from TheAlgorithms/revert-22-patch-1
+
+Revert ""Update bubble_sort.py"""
+GitHub,Update Arrays
+GitHub,"Merge pull request #323 from Wayde2014/master
+
+typo: strip"
+GitHub,"Floyd Warshall Algorithm
+
+upload simple Floyd-Warshall Algorithm (No path stored)"
+GitHub,Add counting sort
+GitHub,"Merge pull request #281 from daniel-s-ingram/master
+
+Thanks for contribution"
+GitHub,noqa to silence flake8 on Python 3 only syntax
+GitHub,"Add Segment Tree
+
+Add simple Segment Tree (No optimization)"
+GitHub,"Merge pull request #73 from alaouimehdi1995/master
+
+More concise, optimized and readable code in sorts/quick_sort.py file"
+GitHub,"Update minimum_partition.py
+
+The loop for finding differences had issues of float being iterated. Has been fixed."
+GitHub,"Merge pull request #237 from damelLP/add_string_algos
+
+fixed failure function and cleaned up code in kmp + added rabin-karp"
+GitHub,"Merge pull request #170 from agdenadel/master
+
+Fix typo in traversals"
+GitHub,"Merge pull request #176 from imcgeek/patch-1
+
+Create Arrays"
+GitHub,"Merge pull request #221 from cclauss/patch-4
+
+chunk() --> chunker() to resolve an undefined name"
+GitHub,Merge branch 'master' into patch-2
+GitHub,"Merge pull request #120 from dhavdc/master
+
+Merged Graphs into data_structure/graph"
+GitHub,"RSA Algorithm
+
+Uploaded solution for RSA Algorithm"
+GitHub,"Merge pull request #107 from mk9440/master
+
+Maximum_subaray_problem"
+GitHub,"Create Onepad_Cipher.py
+
+In one pad algorithm length of key and length of message are equal which results in endless possibilities of false messages on bruteforce."
+GitHub,"Merge pull request #16 from miczal/master
+
+[Quicksort]Added shuffling of input"
+GitHub,"Merge pull request #152 from nbrgr/DecisionTree
+
+Implementation of a regression tree in python"
+GitHub,"Merge pull request #94 from rafaelleru/master
+
+fix indent error"
+GitHub,"Merge pull request #173 from py-ranoid/patch-1
+
+Added basic-graphs.py with common graph algorithms"
+GitHub,"Merge pull request #295 from bp274/master
+
+Modernize Python 2 code to work for Python 3"
+GitHub,binary exponentiation
+GitHub,"Merge pull request #242 from cclauss/modernize-python2-code-again
+
+Modernize Python 2 code to get ready for Python 3 AGAIN"
+GitHub,"Create knapsack.py
+
+Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack."
+GitHub,Fixed heading's formatting errors
+GitHub,"Updated average case for Quicksort
+
+A small edit. Average case for quicksort changed from O(n^2) to O(n log n). Sited:
+https://en.wikipedia.org/wiki/Quicksort"
+GitHub,"Merge pull request #5 from SergeyTsaplin/selection-sort-python-way
+
+Make selection sort pythonic way"
+GitHub,Create normal_distribution_QuickSort_README.md
+GitHub,"Merge pull request #267 from AmirNaghibi/spelling-fix
+
+fixed spelling error"
+GitHub,"Create __init__.py
+
+Initialising a LinkedList class, using a Node class to store the item and the next pointer."
+GitHub,"Added code for memory function implementation
+
+Added a function which implements knapsack using memory functions. Also I updated the test cases to include test cases for the memory function implementation."
+GitHub,"Problem 29 -- Project Euler
+
+On this solution I used a 'set' data structure, since more efficient."
+GitHub,"Merge pull request #46 from Henocks/patch-2
+
+Slight Performance/Visual Update"
+GitHub,"Merge pull request #10 from SergeyTsaplin/separate-directories
+
+Move files to separate directories"
+GitHub,"Merge pull request #143 from rajnishyadav321/patch-1
+
+Added Next Greater Element"
+GitHub,"Merge pull request #68 from prateekiiest/patch-4
+
+Create normal_distribution_QuickSort_README.md"
+GitHub,"Merge pull request #100 from Anshuman-Verma/md-fix
+
+Corrected Markdown"
+GitHub,"Merge pull request #147 from aravindiiitb/master
+
+Added Code in Dynamic Programming section for Longest Strictly Increasing Subsequence in O(nlogn) time"
+GitHub,Typo: dfference --> difference (I added an i)
+GitHub,Update timsort.py
+GitHub,"Merge pull request #239 from damelLP/graph_algos
+
+Added Tarjan's algorithm for finding strongly connected components"
+GitHub,Delete normaldistribution_quicksort_README.md
+GitHub,"Merge pull request #284 from yesIamHasi/patch-1
+
+Create NewtonRaphsonMethod.py"
+GitHub,"Correction: File solv3.py
+
+I have remove some semicolons. line 11, 12 and 42"
+GitHub,"Merge pull request #269 from cclauss/patch-3
+
+Fix Python 2 syntax error in matrix_chain_order.py"
+GitHub,"Merge pull request #33 from akshaysharma096/master
+
+edge test cases fixed for in_order"
+GitHub,"Merge pull request #1 from TheAlgorithms/master
+
+Update Branch"
+GitHub,"Merge pull request #266 from daniel-s-ingram/master
+
+Brute force solution to Problem 10"
+GitHub,"Merge pull request #75 from alaouimehdi1995/master
+
+Fixing some terms number issue, and improving result for first terms (0 and 1)"
+GitHub,"Merge pull request #155 from TaylorL19/master
+
+Fixed binary search to correctly recurse to left half and right half"
+GitHub,"Merge pull request #168 from yeggasd/master
+
+Added Vigenere Cipher description"
+GitHub,"Added test case 
+
+Added a test case check knapsack.py"
+GitHub,"Merge pull request #178 from SaBuZa/Lazy-Segment-Tree
+
+Lazy Segment Tree"
+GitHub,"Update cyclesort.py
+
+Changing for Python 3 using exception handling for robust code"
+GitHub,Update singly_LinkedList.py
+GitHub,small change!
+GitHub,"Merge pull request #27 from AlvinPH/bubble_sort_MD1
+
+ better bubble sort "
+GitHub,"Added Next Greater Element
+
+Element       NGE
+   4      -->   5
+   5      -->   25
+   2      -->   25
+   25     -->   -1"
+GitHub,"Merge pull request #206 from Thejus-Paul/master
+
+Added Question 9"
+GitHub,"Merge pull request #293 from TheAlgorithms/changed_chaosmachine
+
+added a option for termination the program"
+GitHub,Update sol2.py
+GitHub,"Merge pull request #26 from yyeltsyn/patch-4
+
+Update insertion_sort.py"
+GitHub,"import numpy as np
+
+Lines like 19, 20, 29, 30, etc. use np but it is never defined."
+GitHub,"Merge pull request #211 from christianbender/master
+
+primelib"
+GitHub,"Merge pull request #235 from cclauss/patch-3
+
+Pass flake8 tests"
+GitHub,"Merge pull request #151 from DTBUday/master
+
+Added Ternary Search Algorithm"
+GitHub,"Update password_generator.py
+
+increased user interactivity and more powerful usage of modules."
+GitHub,"Merge pull request #66 from prateekiiest/master
+
+Update Normal Distribution QuickSort Readme"
+GitHub,"Merge pull request #103 from 6180/playfair-cipher
+
+Playfair cipher"
+GitHub,"Merge pull request #1 from christianbender/christianbender-primelib
+
+primelib"
+GitHub,"Merge pull request #213 from Thejus-Paul/master
+
+Problem 16 Added"
+GitHub,Add Linear Congruential Generator
+GitHub,"Merge pull request #196 from bT-53/patch-1
+
+Add Kosaraju's Algorithm (SCC)"
+GitHub,"Properly define raw_input)( in Python 3
+
+__raw_input()__ was removed in Python 3 in favor of __input()__.  This change ensure similar functioning in both Python 2 and Python 3."
+GitHub,"Merge pull request #230 from christianbender/master
+
+improvement XOR_cipher.py"
+GitHub,"Merge pull request #198 from First4196/master
+
+add minimum spanning tree kruskal"
+GitHub," Add automated flake8 testing of pull requests
+
+The owner of the this repo would need to go to https://travis-ci.org/profile and flip the repository switch __on__ to enable free automated flake8 testing of each pull request.  Flake8 will find bugs and code smells."
+GitHub,Updated sol2.py to make it work as expected
+GitHub,"Merge pull request #201 from t0rr3sp3dr0/master
+
+ROT13"
+GitHub,Delete .travis.yml
+GitHub,"Merge pull request #194 from anuragkumarak95/master
+
+[other] Added Conway's Game of Life Experiment."
+GitHub,"Merge pull request #17 from Knhash/patch-1
+
+Update README.md : Selection Sort"
+GitHub,"Updated test case
+
+Made a typo writing name instead of __name__"
+GitHub,"Merge pull request #1 from TheAlgorithms/master
+
+Getting New Changes"
+GitHub,"Merge pull request #229 from christianbender/master
+
+XOR cipher algorithm"
+GitHub,"Create Fischer-Yates_Shuffle.py
+
+The Fisher–Yates shuffle is an algorithm for generating a random permutation of a finite sequence.
+For more details visit
+wikipedia/Fischer-Yates-Shuffle"
+GitHub,"Merge pull request #259 from pl04351820/master
+
+Add sorts for python3"
+GitHub,Create License
+GitHub,"Merge pull request #172 from ghost/master
+
+path-1 forwarding ports with meterpreter API using namespaces with gui supported C# program. look at open ai.lnk file to see more."
+GitHub,"Merge pull request #255 from ltdouthit/master
+
+Simpson Rule "
+GitHub,"Merge pull request #305 from PyDevthon/patch-1
+
+Updated_caesar_cipher.py"
+GitHub,"Correction: File solv01.py
+
+Identifier 'max' changed in 'maxNumber' , since 'max' is a function."
+GitHub,"Merge pull request #162 from coreywho/master
+
+Recursive solution to insert_tail in singly_LinkedList"
+GitHub,"Merge pull request #48 from RianGallagher/master
+
+Added Sieve of Eratosthenes algorithm for finding primes"
+GitHub,"Merge pull request #84 from frmatias/master
+
+Add Binary Search Tree in data_structures"
+GitHub,"Merge pull request #225 from Richienb/patch-1
+
+Project Euler - Easier Solution To Problem 7"
+GitHub,"Create Arrays
+
+""Arrays implementation"" using python programming."
+GitHub,"Merge pull request #81 from gupta2140/master
+
+Added feature for negative number input"
+GitHub,"Fix unresolved name: insert_tail()
+
+insert_tail(Head.next, data) --> Head.next.insert_tail(data)
+
+Fixes: $ __flake8 . --count --select=E901,E999,F821,F822,F823 --show-source --statistics__
+```
+./data_structures/LinkedList/singly_LinkedList.py:14:13: F821 undefined name 'insert_tail'
+            insert_tail(Head.next, data)
+            ^
+1     F821 undefined name 'insert_tail'
+```
+
+Also formats the code to be compliant with [PEP8](http://pep8.org)."
+GitHub,"Merge pull request #304 from hytae1993/master
+
+quicksort_3_partition"
+GitHub,"Merge pull request #58 from dhruvsaini/patch-1
+
+Create longest common subsequence.py"
+GitHub,"Merge pull request #2 from TheAlgorithms/master
+
+merge from main."
+GitHub,"Merge pull request #53 from prateekiiest/master
+
+Upadated RSA Algorithm under Cryptography Section"
+GitHub,"Merge pull request #192 from sachinarora707/master
+
+Project Euler Solutions Added."
+GitHub,Binary Exponentiation for a^b
+GitHub,"Merge pull request #331 from bharath-123/patch-2
+
+Thanks for contributing"
+GitHub,"Update README.md
+
+Add description for Selection Sort"
+GitHub,"Merge pull request #318 from psyas/master
+
+Create new cipher - Elgamal cipher key generator"
+GitHub,"Merge pull request #52 from alvin562/master
+
+added nested brackets problem"
+GitHub,"Merge pull request #274 from gabrielangelo/master
+
+hash functions added"
+GitHub,"Revert ""Upadated RSA Algorithm under Cryptography Section""
+"
+GitHub,"Merge pull request #61 from dhruvsaini/patch-3
+
+Create knapsack.py"
+GitHub,"Merge pull request #62 from dhruvsaini/patch-4
+
+Create longest_increasing_subsequence.py"
+GitHub,"Merge pull request #24 from michaalbert/patch-1
+
+Fixed typo in linear_search.py"
+GitHub,"Merge pull request #270 from cclauss/patch-5
+
+xrange() was removed in Python 3 in favor of range()"
+GitHub,"Merge pull request #262 from williamfzc/master
+
+function '__init__' miss a 'i'"
+GitHub,typo: strip
+GitHub,"Merge pull request #123 from theycallmemac/master
+
+added timsort.py"
+GitHub,"Merge pull request #108 from frmatias/master
+
+Perceptron - one neuron"
+GitHub,"Merge pull request #203 from erdenezul/refactor_longest_common_subsequence
+
+refactor longest common subsequence problem"
+GitHub,Update merge_sort_fastest.py
+GitHub,"Merge pull request #45 from Henocks/patch-1
+
+Update __init__.py"
+GitHub,"comment out
+
+I comment out some code lines in the test-section"
+GitHub,"Merge pull request #1 from RiptideBo/stephen_branch
+
+stephen_branch"
+GitHub,"Update merge_sort_fastest.py
+
+I have modified the code a little to make it work as expected!"
+GitHub,"Merge pull request #80 from gupta2140/master
+
+Fixed infinite loop while entering, and preorder traversal."
+GitHub,"Merge pull request #34 from edawine/patch-1
+
+Add another randomness into the password generator"
+GitHub,"Merge pull request #260 from christianbender/added_linearAlgebra
+
+Added a linear algebra library"
+GitHub,"Merge pull request #20 from Knhash/patch-1
+
+Update README.md"
+GitHub,"Merge pull request #325 from cclauss/patch-5
+
+Properly define raw_input() in Python 3"
+GitHub,"Create longest_increasing_subsequence.py
+
+The Longest Increasing Subsequence (LIS) problem is to find the length of the longest subsequence of a given sequence such that all elements of the subsequence are sorted in increasing order. For example, the length of LIS for {10, 22, 9, 33, 21, 50, 41, 60, 80} is 6"
+GitHub,"Merge pull request #226 from PiyushPawar17/Mod-Expo
+
+Added Modular Exponential"
+GitHub,"Two-sum, common interview problem."
+GitHub,"Merge pull request #98 from moun3imy/patch-1
+
+Update Breadth_First_Search.py"
+GitHub,Binary Exponentiation for Multiplication
+GitHub,Rename Arrays to Arrays.py
+GitHub,"Merge pull request #150 from chinmoy159/master
+
+Binary Exponentiation"
+GitHub,"Merge pull request #95 from rafaelleru/master
+
+fix some style errors in Binary Tree"
+GitHub,"Merge pull request #254 from akshaykumar123/patch-2
+
+Update Arrays"
+GitHub,"Merge pull request #3 from TheAlgorithms/master
+
+merge from main."
+GitHub,With example
+GitHub,"Fixed typo in linear_search.py
+
+The documentation comment said ""binary search"", not ""linear search"""
+GitHub,"Merge pull request #140 from rudrasohan/new
+
+Added A* Algorithm"
+GitHub,Fix typo in documentation
+GitHub,"Merge pull request #252 from shivg7706/master
+
+MatrixChainOrder"
+GitHub,"Merge pull request #253 from shivg7706/master
+
+Adding Problem_08"
+GitHub,"Merge pull request #224 from Sayan97/master
+
+Merge pull request #1 from TheAlgorithms/master"
+GitHub,"Merge pull request #37 from ShyamW/master
+
+Merge Request"
+GitHub,"Merge pull request #282 from daniel-s-ingram/master
+
+Solution to Problem 36"
+GitHub,"Merge pull request #65 from prateekiiest/patch-3
+
+Create random_normaldistribution_quicksort.py"
+GitHub,"Merge pull request #2 from H-Darji/master
+
+Improvement"
+GitHub,"Merge pull request #90 from frmatias/master
+
+Graph, Deep First Search, Graph with Matrix, Graph with List"
+GitHub,noqa to silence flake8 on Python 3 only syntax
+GitHub,"Merge pull request #184 from pablo9891/master
+
+Rename binary_search_tree and added a getNode function"
+GitHub,"Adding reverse() to singly-linked list
+
+Updating singly-linked list to include a reverse method using the three-way shuffle method."
+GitHub,"Merge pull request #179 from Shivams334/master
+
+Added new code"
+GitHub,"Merge pull request #59 from alvin562/master
+
+updated version"
+GitHub,"Deleting duplicate BFS and DFS files. (#164)
+
+* Deleting duplicate file BFS.
+
+* deleting duplicate file DFS.
+
+* Rename P01_BreadthFirstSearch.py to BreadthFirstSearch.py
+
+* Rename P02_DepthFirstSearch.py to DepthFirstSearch.py
+"
+GitHub,"XOR cipher algorithm
+
+a class with simple cipher algorithm that uses bitwise XOR"
+GitHub,"Merge pull request #15 from naveenarun/patch-1
+
+Create bogosort.py"
+GitHub,"Merge pull request #60 from dhruvsaini/patch-2
+
+Create minimum_partition.py"
+GitHub,"Merge pull request #199 from honeycoder96/patch-1
+
+Create cyclesort.py"
+GitHub,"Merge pull request #243 from cclauss/patch-1
+
+Fix unresolved name: insert_tail()"
+GitHub,"Merge pull request #294 from TheAlgorithms/documented_md5_hash
+
+Documented md5 hash"
+GitHub,"Merge pull request #23 from yyeltsyn/patch-2
+
+Update quick_sort.py"
+GitHub,"Merge pull request #251 from ltdouthit/Maths/Numerical_Intergration
+
+Maths/numerical intergration"
+GitHub,"Merge pull request #189 from TheAlgorithms/sachinarora707-patch-1
+
+deleted A*.py"
+GitHub,"Merge pull request #298 from yesIamHasi/patch-5
+
+Create Fischer-Yates_Shuffle.py"
+GitHub,"Correction: File solv01.py
+
+I have remove some semicolons."
+GitHub,"Added Multi Heuristic Astar
+
+Implemented the paper www.cs.cmu.edu/~venkatrn/papers/ijrr16.pdf"
+GitHub,"Merge pull request #193 from erdenezul/coin_change_problem
+
+add coin change problem"
+GitHub,"Merge pull request #316 from AnshulMalik/segment-tree-refactor
+
+refactor-segment-tree"
+GitHub,"Merge pull request #177 from SaBuZa/Segment-Tree
+
+Add Segment tree"
+GitHub,"Merge pull request #183 from tonydelanuez/patch-2
+
+Two-sum, common interview problem."
+GitHub,"Merge pull request #29 from naveenarun/master
+
+add hashes directory with md5 implementation (resubmit)"
+GitHub,"Update Breadth_First_Search.py
+
+Fixed the fact that all nodes except source are marked as visited twice"
+GitHub,"Merge pull request #234 from ashu01/develope-1
+
+Refactor"
+GitHub,Create normaldistribution_quicksort_README.md
+GitHub,"Merge pull request #241 from cclauss/patch-1
+
+noqa to silence flake8 on Python 3 only syntax "
+GitHub,"Add Fenwick Tree
+
+Add Fenwick Tree (Binary Index Tree)"
+GitHub,"Merge pull request #136 from JuantAldea/euclidean_gcd
+
+Adding Euclidean GCD algorithm"
+GitHub,"Merge pull request #104 from sthkindacrazy/master
+
+scoring functions added"
+GitHub,"Merge pull request #1 from MindTraper/MindTraper-patch-1
+
+Bisection,Newton,Intersection"
+GitHub,"Merge pull request #190 from jyotsana19/master
+
+Added Dequeue in Python"
+GitHub,"Merge pull request #283 from clobob/master
+
+fix type error (except an int) in jumpmp_search line 7."
+GitHub,"Merge pull request #99 from mandy8055/master
+
+Added one of the most important machine learning algorithm"
+GitHub,"Merge pull request #8 from SergeyTsaplin/full-refactoring
+
+Sortings and searching algorithms refactoring"
+GitHub,"Uses 'with' instead of manually closing files
+
+Uses 'with' statement when opening files to guarantee files are closed even when the process is interrupted."
+GitHub,"Merge pull request #209 from DeepakNautiyal987/master
+
+File Transfer Protocols"
+GitHub,"Merge pull request #275 from girijamanojkumarreddy/master
+
+Added Solution to Problem 2 in a simple approach"
+GitHub,"Merge pull request #6 from SergeyTsaplin/bin-search-pythonic
+
+Bin search refactored pythonic way"
+GitHub,"Fixed error in binary_search_by_recursion
+
+In binary_search_by_recursion, if you search array for a value that does not exist, you will get this error:
+RecursionError: maximum recursion depth exceeded in comparison
+
+To fix this, first check to make sure that the value is between left and right points like this:
+    if (right < left):
+        return None
+
+A similar construct has already been applied to binary_search, but did not exist in the recursive alternative."
+GitHub,"updated testcase
+
+Changed name to __name__. Sorry for the typo!"
+GitHub,"Merge pull request #278 from daniel-s-ingram/master
+
+Solution to Problem 21"
+GitHub,Delete P02_DepthFirstSearch.py
+GitHub,Added counting sort in python
+GitHub,"Merge pull request #215 from erdenezul/dp_abbreviation
+
+add abbrevation solution to dp"
+GitHub,"Merge pull request #204 from erdenezul/even_tree_problem
+
+add even tree problem"
+GitHub,"Merge pull request #175 from SaBuZa/Fenwick-Tree
+
+Add Fenwick Tree"
+GitHub,Update bubble_sort.py
+GitHub,"Update insertion_sort.py
+
+Cleaner solution: shorter, less variables, straightforward logic."
+GitHub,"Merge pull request #146 from chrismclennon/stack
+
+Refactor data_structures.Stacks"
+GitHub,"Merge pull request #38 from turfaa/dp-edit_distance
+
+Add Edit Distance DP Algorithm"
+Rafael,"fix some style errors
+"
+Rafael,"more rotations
+"
+Rafael,"fix error in preshow
+"
+Rafael,"rotate left almost working
+"
+Rafael,"fix indent error
+"
+Rafael,"node now eses pythonproperties
+"
+Rafael,"finish AVL
+"
+Rafael,"using python properties
+"
+Rafael,"Rotate left and right done
+"
+Rafael,"Done Node and Insert method
+"
+Yvonne,"add sum of the longest sub array
+"
+ashu01,"1. Removed ;
+"
+ashu01,"1. typo fix {Arrays|
+"
+ashu01,"typo fix
+"
+ashu01,"1. typo fix {playfair_cipher.py, AVL.py}
+2. Corrected Logic {AVL.py, 104-107}
+3. Removed unnecessary semicolons {BellmanFord.py, Dijkstra.py}
+"
+miczal,"[Quicksort]Added shuffling of input
+"
+Harshil,"Merge branch 'master' of https://github.com/MindTraper/Python into MindTraper-master
+"
+Harshil,"Merge branch 'MindTraper-master'
+"
+Harshil,"basic client-server implementation
+"
+Hyuntae,"quicksort_3_partition
+"
+Sylvain,"Add most recent Python versions in Travis CI
+
+Add more recent Python versions including
+development branches and nightly build.
+"
+cclauss,"Modernize Python 2 code to get ready for Python 3 AGAIN
+"
+damelLP,"Added Tarjan's algorithm for finding strongly connected components
+"
+damelLP,"fixed failure function and cleaned up code in kmp + added rabin-karp
+"
+gabriel,"hash functions added
+"
+yeggasd,"Updated README.md
+
+Added Vigenere Cipher description
+"
+Anshuman,"Corrected Markdown
+"
+Corey Hu,"Recursive solution to insert_tail in singly_LinkedList
+"
+Daniel K,"Merged Graphs
+"
+Mavroudo,"Setting the files in the same folder
+"
+Mavroudo,"LU decomposition
+"
+alvin562,"added nested brackets problem
+"
+alvin562,"updated version
+"
+alvin562,"made it compatible with python 3.x
+"
+Deepak345,"implemented jump search
+"
+Erdenezul,"add coin change problem
+"
+Erdenezul,"refactor longest common subsequence problem
+"
+Erdenezul,"add abbrevation solution to dp
+"
+Erdenezul,"add even tree problem
+"
+Erdenezul,"fix typo
+"
+JakeBonek,"Fixed spacing
+"
+JakeBonek,"Fixed spacing
+"
+JakeBonek,"Fixed typos
+"
+JakeBonek,"Fixed typos and added the shell sort algorithm
+"
+RiptideBo,"add a framework of bp neural network and delete the old one
+"
+TaylorL19,"Fixed binary search to correctly recurse to left half and right half
+"
+Zach Wild,"Add topological_sort.py
+"
+agdenadel,"Fix typo in traversals
+"
+shivg7706,"QuineMcCluskey
+"
+shivg7706,"adding 22 and 24
+"
+shivg7706,"another sol for problem_20
+"
+shivg7706,"changes
+"
+shivg7706,"Adding Problem_08
+"
+shivg7706,"another sol for 11
+"
+shivg7706,"MatrixChainOrder
+"
+yashLadha,"Added Linear regression
+"
+Sichen Liu,"networking_flow
+"
+Sichen Liu,
+Sichen Liu,
+Sichen Liu,"Add sorts for python3
+"
+Tony Sappe,"Improved MergeSort.py
+
+* Added Python3 support
+"
+Tony Sappe,"Changed BubbleSort.py and InsertionSort.py to allow x number of inputs. Also worked on LinearSearch.py
+"
+Tony Sappe,"Changed QuickSort.py
+
+Converted all indentations to spaces (different files had spaces or tabs)
+"
+Tony Sappe,"Typos in README.md
+"
+Tony Sappe,"Made improvements to Bubble and Insertion algorithms
+
+* Placed the algorithms within their own functions separate from the input and output code
+* Updated README
+"
+Uday Patel,"Added Ternary Search Algorithm
+"
+naveenarun,"add hashes directory
+"
+naveenarun,"fix python3 print statement
+"
+rudrasohan,"Added A* Algorithm
+"
+rudrasohan,"Changed Filename from A*.py to a_star.py
+"
+Stephen Lee,"improve
+"
+Stephen Lee,"commit convolution_neural_network.py
+"
+Stephen Lee,"Merge remote-tracking branch 'upstream/master'
+"
+Stephen Lee,"Merge remote-tracking branch 'upstream/master'
+"
+Stephen Lee,"add bp neural network with 3 layers
+"
+Stephen Lee,"commit convolution_neural_network.py
+"
+Stephen Lee,"improve
+"
+Thejus-Paul,"Added Solution
+
+ Added Solution for Problem 20
+"
+Thejus-Paul,"Problem 16 Added
+
+Solution to the Problem 16  has been added.
+"
+Thejus-Paul,"Project Euler Solution Added
+"
+Thejus-Paul,"Added Question 9
+"
+arpanjain97,"Add Floyd-Warshall Algorithm
+"
+arpanjain97,"Add Bellman-Ford Algorithm
+"
+arpanjain97,"Add Dijkstra's Algorithm
+"
+vincenzobaz,"add quicksort
+"
+Alvin Nguyen,"changed rigt->right, a typo fix.
+"
+Alvin Nguyen,"Fixed compilation errors, fixes for readability/convention, changed double equals to boolean equality operator 'is'
+"
+Amir Naghibi,"fixed spelling error
+"
+Anshul Malik,"refactor-segment-tree
+"
+Anurag Kumar,"added k means clustering algorithm, usage doc inside.
+"
+Anurag Kumar,"[other] Added Conway's Game of Life Experiment.
+"
+Anurag Kumar,"added Sierpinski Triangle generation module(fractal structures).
+"
+Juan Antonio,"Adding Euclidean GCD algorithm
+"
+Kilian Rueß,"Added fastfibonacci.py
+"
+Mehdi ALAOUI,"Added some other spaces
+"
+Mehdi ALAOUI,"Code optimized and complexity decreased
+"
+Mehdi ALAOUI,"Comments reviewed
+"
+Mehdi ALAOUI,"The program returns now the longest increasing subsequence instead of returning only the length. Code optimized and well commented
+"
+Mehdi ALAOUI,"Added some space before and after operators
+"
+Mehdi ALAOUI,"Adding spaces between operators
+"
+Mehdi ALAOUI,"Fixing some terms number issue, and improving result for first terms (0 and 1)
+"
+Mehdi ALAOUI,"Code more concise and more readable
+"
+Omkar Pathak,"Added Bucket Sort implementation
+"
+Omkar Pathak,"Python Graph implementation
+"
+Omkar Pathak,"Infix to Postfix conversion using Stack
+"
+Omkar Pathak,"Added Bucket Sort implementation
+"
+Omkar Pathak,"Checking balanced parantheses using Stack
+"
+Omkar Pathak,"Python implementation of Stack
+"
+Sachin Arora,"Changed the typographical error (#132)
+
+Changed the typo in line 113 and 115 regarding recursive binary search algorithm, found by a user who commented in comments."
+Sachin Arora,"Create singly_LinkedList.py (#110)
+
+* Create singly_LinkedList.py
+
+* Update singly_LinkedList.py
+
+* Update singly_LinkedList.py
+
+* Update singly_LinkedList.py
+
+* Update singly_LinkedList.py
+
+* Update singly_LinkedList.py
+"
+Sachin Arora,"Project Euler Problems Added.
+"
+Sachin Arora,"Project Euler Solutions Added.
+"
+Sachin Arora,"Trie implementation (#111)
+
+* Started Trie implementation.
+
+* Basic definition of Trie in comments at the top of the file
+* Defined Trie class and method signatures.
+
+* * Renamed method signatures to match formal definitions
+
+* Finished Simple Trie implementation and added test functions
+* Finished function to insert a word into Trie
+* Finished function to find a word in the Trie
+* Added Test functions with Assertions
+
+* Updated test function to read from the Dictionary.txt file in repository
+
+* * No longer using $ to mark end of word
+* No longer reading from file but instead provided simple sample input for easier testing
+
+* Deleting empty __init__.py file
+"
+aravindiiitb,"Added Code in Dynamic Programming section for Longest Strictly Increasing Subsequence in O(nlogn) time
+"
+arijit pande,"added implementation for heap sort algorithm
+"
+arijit pande,"added __future__ module
+"
+irokafetzaki,"Tabu Search
+"
+Akshay Sharma,"dp intro ro fr fibonacci.py
+"
+Akshay Sharma,"pep style and fixed exception on input other and integer type
+"
+Akshay Sharma,"PEP style
+"
+Akshay Sharma,"edge test cases fixed
+"
+Akshay Sharma,"dynamic_programming, fibonacci sequence.
+"
+Akshay Sharma,"changed named to binary tree traversals
+"
+Akshay Sharma,"added isinstance check
+"
+Akshay Sharma,"travis cli build fail
+"
+Akshay Sharma,"PEP style and tree traversals
+"
+Ankit Agarwal,"Contributing code for Heap data structure, and
+all basic operations associated with it.
+"
+Ankit Agarwal,"Fixing print statement
+"
+Daniel Ingram,"Solution to Problem 53
+"
+Daniel Ingram,"Solution to Problem 36
+"
+Daniel Ingram,"Solution to Problem 40
+"
+Daniel Ingram,"Merge branch 'master' of https://github.com/daniel-s-ingram/PythonAlgorithms
+"
+Daniel Ingram,"Solution to Problem 17
+"
+Daniel Ingram,"Solution to Problem 11
+"
+Daniel Ingram,"Solution to Problem 48
+"
+Daniel Ingram,"Solution to Problem 22
+"
+Daniel Ingram,"Solution to Problem 17
+"
+Daniel Ingram,"Brute force solution to Problem 10
+"
+Daniel Ingram,"Solution to Problem 28
+"
+Daniel Ingram,"Solution to Problem 28
+"
+Daniel Ingram,"Fixed xrange compatibility for Python 3
+"
+Daniel Ingram,"Solution to Problem 21
+"
+Daniel Ingram,"Added xrange compatibility for Python 3
+"
+Daniel Ingram,"Computes minimum cost for converting one string into another
+"
+Daniel Ingram,"Minimum cost for transformation from one string to another using basic operations
+"
+Daniel Ingram,"Solution to Problem 19
+"
+Daniel Ingram,"Merge branch 'master' of https://github.com/daniel-s-ingram/PythonAlgorithms
+"
+Daniel Ingram,"Combinatoric solution using Pascal's Triangle to Problem 15
+"
+Daniel Ingram,"Solution to Problem 52
+"
+Daniel Ingram,"Dynamic programming solution to Problem 25
+"
+Daniel Ingram,"Counting integer partitions
+"
+Daniel Ingram,"Solution to Problem 76
+"
+Daniel Ingram,"Solution to Problem 12
+"
+Harshil Darji,"Merge branch 'master' of https://github.com/TheAlgorithms/Python
+"
+Harshil Darji,"Change .travis.yml
+"
+Harshil Darji,"improvement
+"
+Harshil Darji,"Merge branch 'master' of https://github.com/TheAlgorithms/Python
+
+Merge to update my local repo.
+"
+Harshil Darji,"fixed heap_sort
+"
+Harshil Darji,"Merge branch 'master' of https://github.com/TheAlgorithms/Python
+local merge
+"
+Harshil Darji,"User input
+"
+Harshil Darji,"Merge branch 'master' of https://github.com/TheAlgorithms/Python
+"
+Harshil Darji,"Minor improvement
+"
+Harshil Darji,"File rename
+"
+Harshil Darji,"Added test cases
+"
+Harshil Darji,"File rename
+"
+Harshil Darji,"fixed shell_sort
+"
+Nathan Berger,"Implementation of a regression tree in python
+
+I've implemented a basic decision tree in python as an example of how they work. Although the class I've created only works on one dimensional data sets, the reader should be able to generalize it to higher dimensions should they need to."
+Nathan Berger,"Fixed case where function didn't return where it should
+
+I added these return statements so that invalid inputs or valid end cases would no longer continue running through the rest of the function."
+Pedro Tôrres,"ROT13
+"
+PiyushPawar17,"Added Modular Exponential
+"
+Sarbajit Saha,"fixed spelling of coma to comma
+"
+Sarbajit Saha,"added interpolation search
+"
+sthkindacrazy,"scoring functions added
+"
+theycallmemac,"added timsort.py
+"
+97arushisharma,"Merge branch 'master' of https://github.com/jyotsana19/Python
+"
+97arushisharma,"Added Dequeue in Python
+"
+Chetan Kaushik,Initial commit
+Chetan Kaushik,"Added Binary Search and Modified Linear Search
+"
+Chetan Kaushik,"Linear Search
+"
+Chetan Kaushik,"Added Merge Sort
+"
+Chetan Kaushik,"Changed extention of previous files and added Selection sort
+"
+Chris McLennon,"Refactor Stack
+"
+Rian Gallagher,"Added Sieve of Eratosthenes algorithm for finding primes
+"
+Rian Gallagher,"Added Doubly Linked List
+"
+Rian Gallagher,"Added Sieve of Eratosthenes for finding primes
+"
+Sergey Tsaplin,"Add bin search algorithm using stdlib
+"
+Sergey Tsaplin,"Sortings and searching algorithms refactoring
+"
+Sergey Tsaplin,"Binary Search refactoring
+"
+Sergey Tsaplin,"Travis integration (Add .travis.yml)
+"
+Sergey Tsaplin,"Move files to separate directories
+"
+Sergey Tsaplin,"Add coverege
+"
+Sergey Tsaplin,"Make selection sort pythonic way
+"
+Sergey Tsaplin,"Rename binary_search module pythonic way
+"
+Tommi Laivamaa,"Added implementations of gnome sort and cocktail shaker sort
+"
+amankumargupta,"Added feature for negative number input
+"
+amankumargupta,"Fixed infinite loop while entering, and preorder traversal.
+"
+himangSharatun,"add mean bias deviation in scoring functions
+"
+nautiyaldeepak,"ftp client server connection
+"
+AnupKumarPanwar,"DFS & BFS in graph
+"
+KyleScharnhorst,"Fix: typo in multiple files.
+"
+malikshubham827,"Added Dijkstra Algorithm
+"
+Christian Bender,"I documented the md5 hash
+"
+Christian Bender,"fixed the assert statments
+"
+Christian Bender,"fixed solution 4 of problem 1
+"
+Christian Bender,"I fixed the sol3.py of problem 1
+"
+Christian Bender,"added a docstring
+"
+Christian Bender,"added a option for termination the program
+"
+Francisco Matias,"print
+"
+Francisco Matias,"Perceptron - Neural Network
+"
+Francisco Matias,"fixed error
+"
+Francisco Matias,"Breadth_First_Search
+"
+Francisco Matias,"Perceptron - Neural Network
+"
+Francisco Matias,"Add Binary Search Tree in data_structures
+"
+Francisco Matias,"Improve
+"
+Francisco Matias,"--
+"
+Francisco Matias,"Perceptron - one neuron
+"
+Francisco Matias,"Graph, Deep First Search, Graph with Matrix, Graph with List
+"
+Anup Kumar Panwar,"Bubble Sort
+"
+Anup Kumar Panwar,"Tower of Hanoi
+"
+Anup Kumar Panwar,"insertion sort
+"
+DeepakNautiyal987,"Send & receive files via ftp
+"
+Hossam Al-Dokkani,"Break if the collection is sorted
+"
+Rafael Leyva Ruiz,"AVL done
+"
+Turfa Auliarachman,"Add Edit Distance DP Algorithm
+"
+Maciej A. Czyzewski,"added simple chaos machine impl. to hashes/
+"
+Thanapat Katapornsiri,"add minimum spanning tree kruskal
+"
+Thanapat Katapornsiri,"add newline at the end
+"
+girijamanojkumarreddy,"Added General solution for Problem 9
+"
+girijamanojkumarreddy,"Added a Solution using Euclidean Algo
+"
+Gilberto Alexandre dos Santos,"Created Union-Find algorithm
+"
+Harshil Darji,"Initial
+"
+Harshil Darji,"Initial
+"
+Harshil Darji,"Initial
+"
+Harshil Darji,"Initial
+"
+Harshil Darji,"Initial
+"
+Harshil Darji,"Initial
+"
+Harshil Darji,"initial
+"
+Harshil Darji,"initial
+"
+Harshil Darji,"initial
+"
+Harshil Darji,"Improvement
+"
+Harshil Darji,"Improvement
+"
+Harshil Darji,"Improvement
+"
+GitHub,Update README.md
+GitHub,Update README.md
+GitHub,Update README.md
+GitHub,Update README.md
+GitHub,Update README.md
+GitHub,Update README.md
+GitHub,Update .travis.yml
+GitHub,Update .travis.yml
+GitHub,Update .travis.yml
+GitHub,Update .travis.yml
+GitHub,Update .travis.yml
+GitHub,Update .travis.yml
+GitHub,Add files via upload
+GitHub,Add files via upload
+GitHub,Add files via upload
+GitHub,Add files via upload
+GitHub,Add files via upload
+GitHub,Add files via upload
+GitHub,Add files via upload
+GitHub,Add files via upload
+Harshil Darji,"Cryptography Algorithm
+"
+Harshil Darji,"Cryptography Algorithm
+"
+Harshil Darji,"Cryptography Algorithm
+"
+Harshil Darji,"Cryptography Algorithm
+"
+Harshil Darji,"Cryptography Algorithm
+"
+cclauss,"Modernize Python 2 code to get ready for Python 3
+"
+cclauss,"Modernize Python 2 code to get ready for Python 3
+"
+cclauss,"Modernize Python 2 code to get ready for Python 3
+"
