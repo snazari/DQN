@@ -1,5 +1,6 @@
 # Deep Reinforcement Learning using DQN and RNNs
-![GitHub Logo](/images/groupInteraction.png)
+![Group Interaction](/images/groupInteraction.png)
+![RNN](/images/RNN.png)
 
 User policy learning will augment our current offline sequential prediction model with an online update mechanism to enable the model to adapt to changing user behavior during test time (diagram on slide 8)
 Offline module extracts features from the Reddit datasets and prepares an initial recommendation
