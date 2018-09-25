@@ -1,7 +1,7 @@
 # Deep Reinforcement Learning using DQN and RNNs
 ![Group Interaction](/images/groupInteraction.png)
 
-We started off by using an RNN based architecture: 
+#### RNN Approach
 ![RNN](/images/RNN.png)
 
 User policy learning will augment our current offline sequential prediction model with an online update mechanism to enable the model to adapt to changing user behavior during test time (diagram on slide 8)
