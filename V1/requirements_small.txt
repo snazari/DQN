@@ -1,0 +1,8 @@
+polyglot==16.7.4
+nltk==3.2.5
+numpy==1.14.0
+PyICU==2.0.3
+pycld2==0.31
+#morfessor==2.0.3
+pattern3==3.0.0
+tensorflow-gpu
