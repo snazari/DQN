@@ -30,7 +30,7 @@ MarkupSafe==1.0
 matplotlib==2.1.2
 more-itertools==4.1.0
 Morfessor==2.0.3
-nltk==3.2.5
+nltk==3.4.5
 numpy
 packaging
 pandas
