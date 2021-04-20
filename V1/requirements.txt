@@ -42,7 +42,7 @@ ply==3.10
 polyglot==16.7.4
 portend==2.2
 protobuf==3.5.1
-py==1.5.2
+py==1.10.0
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycld2==0.31
