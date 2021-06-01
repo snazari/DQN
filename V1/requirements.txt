@@ -63,6 +63,6 @@ six==1.11.0
 smart-open==1.5.6
 tempora==1.10
 tornado==4.5.3
-urllib3==1.22
+urllib3==1.26.5
 pattern3==3.0.0
 tensorflow
